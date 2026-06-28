@@ -5,7 +5,7 @@ description: Publish a single file (HTML, Markdown, PDF, image, or text) to a cl
 
 # whamlink
 
-Publish one file to a permanent, public link at **https://whamlink.com**. No tracking, no analytics. API-first.
+Publish one file to a permanent, public link at **https://whamlink.com**. API-first.
 
 Full machine reference: https://whamlink.com/llms.txt — read it if anything below is unclear.
 
